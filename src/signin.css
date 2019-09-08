@@ -1,0 +1,10 @@
+body {
+    background-image: url(./background1.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+#section-1 {
+    font-family: 'Roboto Slab', serif;
+}
